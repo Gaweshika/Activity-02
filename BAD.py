@@ -1,4 +1,5 @@
 
+#python program intended to compute roots of the quadratic equation
 
 
 a = int(input("Enter a :"))
